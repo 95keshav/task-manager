@@ -5,24 +5,7 @@
   <!-- <a href="https://webapps.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Web Apps</h1>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{95keshav}}/web-apps?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{95keshav}}/web-apps?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{95keshav}}/web-apps?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{95keshav}}/web-apps?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{95keshav}}/web-apps?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{95keshav}}/web-apps?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{95keshav}}/web-apps?color=56BEB8" /> -->
-</p>
-
+<h1 align="center">Simple Task Manager</h1>
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -82,4 +65,3 @@ Made with :heart: by <a href="https://github.com/{{keshav955}}" target="_blank">
 
 &#xa0;
 
-<a href="#top">Back to top</a>
