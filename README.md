@@ -28,7 +28,9 @@
 
 ## :dart: About ##
 
-This app is simple task genrator app which where you add,remove and update your daily task list.Task will saved on cloud database and you can handle tasks list from anywhere.
+This app is simple task genrator app which where you add,remove and update your daily task list.Task will saved on cloud database and you can handle tasks list from anywhere. 
+
+<a href="https://fizzy-tasks.herokuapp.com/">Link</a>
 
 ### :rocket: Technologies ###
 The following tools were used in this project:
@@ -45,7 +47,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{95keshav}}/task-manager.
+$ git clone https://github.com/95keshav/task-manager.
 
 # Access
 $ cd task-manager
@@ -61,7 +63,7 @@ $ node server.js
 
 
 
-Made with :heart: by <a href="https://github.com/{{keshav955}}" target="_blank">{{Keshav Sharma}}</a>
+Made with :heart: by <a href="https://github.com/keshav955" target="_blank">Keshav Sharma</a>
 
 &#xa0;
 
